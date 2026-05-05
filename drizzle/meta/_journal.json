@@ -15,6 +15,20 @@
       "when": 1777541964667,
       "tag": "0001_clever_tyger_tiger",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1777899293572,
+      "tag": "0002_glorious_bushwacker",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1777972210354,
+      "tag": "0003_late_firebrand",
+      "breakpoints": true
     }
   ]
 }
